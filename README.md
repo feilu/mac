@@ -1,1 +1,1 @@
-# mac
+# Mac personal setup stuff
